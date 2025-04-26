@@ -5,13 +5,13 @@ const port = 3000;
 app.use(express.json()); 
 
 let users = [
-    { email: "dummy@gmail.com", password: "dummy123",username:Bob,Dob:20012006
+    { email: "dummy@gmail.com", password: "dummy123",username:"Bob",Dob:20012006
 
      },
-    { email: "dummy1@gmail.com", password: "dummy1234" ,username:Bob, Dob:20012006
+    { email: "dummy1@gmail.com", password: "dummy1234" ,username:"Bob", Dob:20012006
     },
    
-    { email: "dummy5@gmail.com", password: "dummy1238",username:Bob,Dob:20012006
+    { email: "dummy5@gmail.com", password: "dummy1238",username:"Bob",Dob:20012006
      }
 ];
 
